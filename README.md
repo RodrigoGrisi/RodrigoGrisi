@@ -7,6 +7,7 @@
 ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Blog]([https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB))
 
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrisi&show_icons=true&theme=radical)
