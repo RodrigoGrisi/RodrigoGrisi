@@ -12,5 +12,6 @@
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrisi&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogrisi&hide_progress=false)
+![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrisi&show_icons=true&theme=radical)
