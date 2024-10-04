@@ -1,4 +1,5 @@
-### E aí, pessoal! 👋 Eu sou o Rodrigo Grisi, um entusiasta do desenvolvimento front-end! 💻 Estou animado em compartilhar que estou explorando o universo do back-end com Node.js para levar minhas habilidades a um novo patamar! 🚀 
+### E aí, pessoal! 👋 Eu sou o Rodrigo Grisi, um entusiasta do desenvolvimento front-end 💻! 
+### Estou animado em compartilhar que estou explorando o universo do back-end com C# e .Net para levar minhas habilidades a um novo patamar! 🚀 
 
 
 
@@ -11,6 +12,7 @@
 ![Blog](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Blog](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C# .NET](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 
 
