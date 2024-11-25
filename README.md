@@ -4,6 +4,7 @@ Sou **Rodrigo Grisi**, desenvolvedor front-end com paixão por criar interfaces 
 
 Atualmente, estou ampliando meus horizontes para o back-end com **NestJS**, **Node.js**, **C#**, e **.NET**, buscando me tornar um profissional full-stack e entregar soluções completas e robustas. 🚀  
 
+Sempre em busca de aprendizado contínuo e desafios que estimulem meu crescimento! 🌟  
 ---
 
 ## 🚀 Tecnologias que uso no meu dia a dia  
@@ -35,4 +36,4 @@ Atualmente, estou ampliando meus horizontes para o back-end com **NestJS**, **No
 
 ---
 
-Sempre em busca de aprendizado contínuo e desafios que estimulem meu crescimento! 🌟  
+
