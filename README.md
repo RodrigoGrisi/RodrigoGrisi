@@ -11,6 +11,7 @@ Sempre em busca de aprendizado contínuo e desafios que estimulem meu cresciment
   ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
   
   
+## 📊 Minhas estatísticas no GitHub  
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RodrigoGrisi&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RodrigoGrisi&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
 
@@ -28,11 +29,5 @@ Sempre em busca de aprendizado contínuo e desafios que estimulem meu cresciment
      <img src="https://github-profile-trophy.vercel.app/?username=RodrigoGrisi&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
   </div>
   
-
-## 📊 Minhas estatísticas no GitHub  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigogrisi&hide_progress=false)  
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigogrisi&show_icons=true&theme=radical)  
-
----
 
 
